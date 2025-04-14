@@ -34,7 +34,7 @@ namespace Redo_WK1Ex1
             // user inputs their Favorite Color
             string color = Console.ReadLine();
             // prints out a meessage with the user's inputs
-            Console.WriteLine("Your first name is " + firstName +".");
+            Console.WriteLine("Hello, " + firstName + " " + lastName + "! ");
         }
     }
 }
